@@ -1,0 +1,68 @@
+# 2022-09-06T16:28:44.369Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testOpenNewActivity"
+    start_time {
+      seconds: 1662481713
+      nanos: 41000000
+    }
+    end_time {
+      seconds: 1662481722
+      nanos: 983000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/kali/dz/mqa-homeworks/2.2 UI Automator/sample/app/build/outputs/androidTest-results/connected/Pixel_4a_API_30_2(AVD) - 11/logcat-ru.netology.testing.uiautomator.ChangeTextTest-testOpenNewActivity.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/kali/dz/mqa-homeworks/2.2 UI Automator/sample/app/build/outputs/androidTest-results/connected/Pixel_4a_API_30_2(AVD) - 11/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/kali/dz/mqa-homeworks/2.2 UI Automator/sample/app/build/outputs/androidTest-results/connected/Pixel_4a_API_30_2(AVD) - 11/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/kali/dz/mqa-homeworks/2.2 UI Automator/sample/app/build/outputs/androidTest-results/connected/Pixel_4a_API_30_2(AVD) - 11/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/kali/dz/mqa-homeworks/2.2 UI Automator/sample/app/build/outputs/androidTest-results/connected/Pixel_4a_API_30_2(AVD) - 11/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

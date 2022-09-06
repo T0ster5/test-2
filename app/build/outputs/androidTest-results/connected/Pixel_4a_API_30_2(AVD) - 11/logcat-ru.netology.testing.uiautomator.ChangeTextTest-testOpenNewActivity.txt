@@ -1,0 +1,102 @@
+09-06 19:28:32.387  9163  9185 I TestRunner: started: testOpenNewActivity(ru.netology.testing.uiautomator.ChangeTextTest)
+09-06 19:28:32.394  9163  9187 V UiAutomation: Init UiAutomation@1b3738b[id=5, flags=0]
+09-06 19:28:32.403   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f3fed000 0x3f3fef000]
+09-06 19:28:32.420  1022  1395 E FrameEvents: updateAcquireFence: Did not find frame.
+09-06 19:28:32.420   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f3ffc000 0x3f3ffe000]
+09-06 19:28:32.911   668   668 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.statusbar.phone.NotificationShadeWindowView{3ec350d I.E...... ......ID 0,0-1080,2340} canPanelBeCollapsed(): false
+09-06 19:28:32.915   519   541 D EventSequenceValidator: inc AccIntentStartedEvents to 2
+09-06 19:28:32.917   410   410 I perfetto: ing_service_impl.cc:758 Configured tracing session 35, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+09-06 19:28:32.917   409   409 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=35)
+09-06 19:28:32.920  1022  1022 D TaplTarget: Launcher.onNewIntent: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.android.launcher3/.uioverrides.QuickstepLauncher (has extras) }
+09-06 19:28:32.920   519   541 D EventSequenceValidator: dec AccIntentStartedEvents to 1
+09-06 19:28:32.925   668   668 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.statusbar.phone.NotificationShadeWindowView{3ec350d I.E...... ......ID 0,0-1080,2340} canPanelBeCollapsed(): false
+09-06 19:28:32.950   409   409 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+09-06 19:28:33.952  9163  9185 W InteractionController: runAndwaitForEvents timed out waiting for events
+09-06 19:28:37.921   409   409 I perfetto: probes_producer.cc:329  Producer stop (id=35)
+09-06 19:28:37.922   410   410 I perfetto: ng_service_impl.cc:1948 Tracing session 35 ended, total sessions:0
+09-06 19:28:37.923   409   409 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+09-06 19:28:39.057   519   541 D EventSequenceValidator: inc AccIntentStartedEvents to 2
+09-06 19:28:39.059   410   410 I perfetto: ing_service_impl.cc:758 Configured tracing session 36, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+09-06 19:28:39.059   409   409 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=36)
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.065   519   572 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:39.087   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f28f1000 0x3f3295000]
+09-06 19:28:39.090   409   409 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+09-06 19:28:39.118  9163  9201 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+09-06 19:28:39.121  9163  9201 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+09-06 19:28:39.124  9163  9201 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+09-06 19:28:39.150  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ae4c903 in: PRE_ON_CREATE
+09-06 19:28:39.252  9163  9163 W ing.uiautomato: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+09-06 19:28:39.253  9163  9163 W ing.uiautomato: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+09-06 19:28:39.256  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ae4c903 in: CREATED
+09-06 19:28:39.258  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ae4c903 in: STARTED
+09-06 19:28:39.259  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ae4c903 in: RESUMED
+09-06 19:28:39.287  9163  9199 D HostConnection: HostConnection::get() New Host Connection established 0xec8a3010, tid 9199
+09-06 19:28:39.303  9163  9199 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+09-06 19:28:39.308   176   176 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+09-06 19:28:39.321  9163  9199 D EGL_emulation: eglCreateContext: 0xec8a3240: maj 3 min 0 rcv 3
+09-06 19:28:39.325  9163  9199 D EGL_emulation: eglMakeCurrent: 0xec8a3240: ver 3 0 (tinfo 0xecbfac70) (first time)
+09-06 19:28:39.329   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+09-06 19:28:39.330   176   176 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+09-06 19:28:39.330  9163  9199 I Gralloc4: mapper 4.x is not supported
+09-06 19:28:39.330  9163  9199 D HostConnection: createUnique: call
+09-06 19:28:39.330  9163  9199 D HostConnection: HostConnection::get() New Host Connection established 0xec8a2520, tid 9199
+09-06 19:28:39.330  9163  9199 D goldfish-address-space: allocate: Ask for block of size 0x100
+09-06 19:28:39.330  9163  9199 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+09-06 19:28:39.353  9163  9199 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+09-06 19:28:39.373   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+09-06 19:28:39.375   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f49a4000 0x3f5348000]
+09-06 19:28:39.876   519   546 D ArtManagerInternalImpl: /data/misc/iorapd/ru.netology.testing.uiautomator/1/ru.netology.testing.uiautomator.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+09-06 19:28:39.877   519   541 D EventSequenceValidator: dec AccIntentStartedEvents to 1
+09-06 19:28:39.877   519   546 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity: +817ms
+09-06 19:28:39.886  9163  9163 I Choreographer: Skipped 36 frames!  The application may be doing too much work on its main thread.
+09-06 19:28:41.178   519   541 D EventSequenceValidator: inc AccIntentStartedEvents to 2
+09-06 19:28:41.179   519  7367 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+09-06 19:28:41.180   519  7367 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+09-06 19:28:41.181   519   541 D EventSequenceValidator: dec AccIntentStartedEvents to 1
+09-06 19:28:41.313   519   972 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+09-06 19:28:41.325  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ae4c903 in: PAUSED
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.326   519   572 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.327   519   572 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+09-06 19:28:41.334  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@8e872eb in: PRE_ON_CREATE
+09-06 19:28:41.351  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@8e872eb in: CREATED
+09-06 19:28:41.355  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@8e872eb in: STARTED
+09-06 19:28:41.356  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@8e872eb in: RESUMED
+09-06 19:28:41.476   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f28f1000 0x3f3295000]
+09-06 19:28:41.479   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f1cec000 0x3f2690000]
+09-06 19:28:41.481   309  5470 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f49a4000]
+09-06 19:28:41.517   519   546 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.ShowTextActivity: +340ms
+09-06 19:28:41.938  9163  9163 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ae4c903 in: STOPPED
+09-06 19:28:42.350  9163  9185 I TestRunner: finished: testOpenNewActivity(ru.netology.testing.uiautomator.ChangeTextTest)

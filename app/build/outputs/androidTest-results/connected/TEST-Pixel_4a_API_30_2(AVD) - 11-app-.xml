@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="ru.netology.testing.uiautomator.ChangeTextTest" tests="1" failures="0" errors="0" skipped="0" time="11.248" timestamp="2022-09-06T16:28:44" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_4a_API_30_2(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testOpenNewActivity" classname="ru.netology.testing.uiautomator.ChangeTextTest" time="9.915" />
+</testsuite>
